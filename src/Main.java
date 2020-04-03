@@ -3,5 +3,6 @@ public class Main {
         System.out.println("Lets do it again !!!");
         System.out.println("Branch?");
         System.out.println("Branch?");
+        System.out.println("Push?");
     }
 }
