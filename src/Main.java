@@ -4,8 +4,9 @@ public class Main {
         System.out.println("Branch?");
         System.out.println("Branch?");
         System.out.println("Push?");
-        System.out.println(" Send toGitHub!");
-        System.out.println(" Send toGitHub 2!");
-        System.out.println(" Send toGitHub 3!");
+
+        System.out.println("Push from branch2");
+
+
     }
 }
