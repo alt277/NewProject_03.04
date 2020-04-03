@@ -4,5 +4,6 @@ public class Main {
         System.out.println("Branch?");
         System.out.println("Branch?");
         System.out.println("Push?");
+        System.out.println("Push from branch2");
     }
 }
