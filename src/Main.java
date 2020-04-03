@@ -6,5 +6,6 @@ public class Main {
         System.out.println("Push?");
         System.out.println(" Send toGitHub!");
         System.out.println(" Send toGitHub 2!");
+        System.out.println(" Send toGitHub 3!");
     }
 }
